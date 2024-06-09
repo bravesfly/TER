@@ -1,0 +1,38 @@
+{
+  "energy": {
+    "walletAddress": "Dirección de la cartera",
+    "energyQuantity": "Cantidad de alquiler",
+    "Rental duration": "Duración del alquiler",
+    "1H": "1 Hora",
+    "3H": "3 Horas",
+    "1D": "1 Día",
+    "3D": "3 Días",
+    "Energy rental": "Alquiler de energía",
+    "connect wallet": "Conectar cartera",
+    "pay": "Pagar",
+    "wallet": "Cartera",
+    "copySuccess": "Copia exitosa",
+    "copyFaild": "Fallo al copiar",
+    "walletAddressPlaceholder": "Ingrese la dirección de la cartera que desea alquilar energía",
+    "useAddressRecEnergy": "Utilice esta dirección para recibir energía",
+    "energyQuantityPlaceholder": "Ingrese la cantidad de energía que desea alquilar",
+    "rentDurationPlaceholder": "Seleccione la duración que desea alquilar",
+    "dontOverPay": "No pague de más ni de menos",
+    "oneRelease": "La energía se liberará en su cartera dentro de un minuto",
+    "acanQRcode": "Escanee el código QR o transfiera manualmente a la siguiente dirección",
+    "copyToClipboard": "Copiar al portapapeles",
+    "amount": "Cantidad",
+    "needPay": " Necesita pagar",
+    "transfer": " Transferir"
+  },
+  "feature": {
+    "on11e": "¡Ahorre hasta un 80% en los costos de transacción con el alquiler de energía de Tron! ¡Experimente ahora!",
+    "Leasing": "¡Ahorre hasta un 80% en los costos de transacción con el alquiler de energía de Tron! ¡Experimente ahora!",
+    "one": "¿Para qué se utiliza la energía de Tron?",
+    "oneMore": "Actualmente, el uso más común de la energía en la red de Tron es para transferir USDT. Para una única transferencia, si el destinatario tiene saldo de USDT, se requieren 32,000 de energía (si la energía es insuficiente, se requieren 13.2 TRX). Si el destinatario no tiene saldo de USDT, se requieren 65,000 de energía (si la energía es insuficiente, se requieren 27.3 TRX). Si los recursos son insuficientes, se mostrará un mensaje de que la energía es insuficiente y la transacción no se podrá completar.",
+    "two": "¿Por qué usar el alquiler de energía?",
+    "twoMore": "Tomando como ejemplo la transferencia de USDT TRC20, cuando el destinatario tiene saldo de USDT, se requiere quemar 13 TRX. Después de comprar energía, solo se requieren 1.60 TRX, lo que ahorra aproximadamente un 88% de la tarifa en comparación con quemar TRX directamente. Cuando el destinatario no tiene saldo de USDT, se requiere quemar 27 TRX. Después de comprar energía, solo se requieren 3.20 TRX, lo que ahorra aproximadamente un 88% de la tarifa en comparación con quemar TRX directamente.",
+    "three": "¿Ya alquilé energía pero la transacción aún falló?",
+    "threeMore": "Además de la energía, las transacciones también requieren ancho de banda. Si solo la energía es insuficiente, la transacción seguirá intentándose pero consumirá energía y eventualmente mostrará que la energía TRX es insuficiente. Si la energía es suficiente pero no hay ancho de banda, la transacción no puede continuar. Normalmente, la cartera mostrará que TRX es insuficiente. Si se inicia a través de API, la transacción se enviará a la cadena pero eventualmente fallará, y la transacción no se puede consultar en el explorador de bloques."
+  }
+}

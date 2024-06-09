@@ -1,0 +1,38 @@
+{
+  "energy": {
+    "walletAddress": "Indirizzo del portafoglio",
+    "energyQuantity": "Quantità di noleggio",
+    "Rental duration": "Durata del noleggio",
+    "1H": "1 Ora",
+    "3H": "3 Ore",
+    "1D": "1 Giorno",
+    "3D": "3 Giorni",
+    "Energy rental": "Noleggio di energia",
+    "connect wallet": "Collega il portafoglio",
+    "pay": "Pagare",
+    "wallet": "Portafoglio",
+    "copySuccess": "Copia riuscita",
+    "copyFaild": "Copia fallita",
+    "walletAddressPlaceholder": "Inserisci l'indirizzo del portafoglio per il quale desideri noleggiare energia",
+    "useAddressRecEnergy": "Utilizza questo indirizzo per ricevere energia",
+    "energyQuantityPlaceholder": "Inserisci la quantità di energia che desideri noleggiare",
+    "rentDurationPlaceholder": "Seleziona la durata che desideri noleggiare",
+    "dontOverPay": "Non pagare troppo né troppo poco",
+    "oneRelease": "L'energia verrà rilasciata nel tuo portafoglio entro un minuto",
+    "acanQRcode": "Scansiona il codice QR o trasferisci manualmente all'indirizzo seguente",
+    "copyToClipboard": "Copia negli appunti",
+    "amount": "Quantità",
+    "needPay": " Deve pagare",
+    "transfer": " Trasferire"
+  },
+  "feature": {
+    "on11e": "Risparmia fino all'80% sui costi di transazione con il noleggio di energia di Tron! Provalo ora!",
+    "Leasing": "Risparmia fino all'80% sui costi di transazione con il noleggio di energia di Tron! Provalo ora!",
+    "one": "A cosa serve l'energia di Tron",
+    "oneMore": "Attualmente, l'uso più comune dell'energia sulla rete Tron è per il trasferimento di USDT. Per un singolo trasferimento, se il destinatario ha un saldo USDT, sono necessari 32.000 di energia (se l'energia è insufficiente, sono necessari 13,2 TRX). Se il destinatario non ha un saldo USDT, sono necessari 65.000 di energia (se l'energia è insufficiente, sono necessari 27,3 TRX). Se le risorse sono insufficienti, verrà visualizzato un messaggio che l'energia è insufficiente e la transazione non potrà essere completata.",
+    "two": "Perché usare il noleggio di energia",
+    "twoMore": "Prendendo come esempio il trasferimento di USDT TRC20, quando il destinatario ha un saldo USDT, è necessario bruciare 13 TRX. Dopo l'acquisto di energia, sono necessari solo 1,60 TRX, risparmiando circa l'88% della tariffa rispetto alla combustione diretta di TRX. Quando il destinatario non ha un saldo USDT, è necessario bruciare 27 TRX. Dopo l'acquisto di energia, sono necessari solo 3,20 TRX, risparmiando circa l'88% della tariffa rispetto alla combustione diretta di TRX.",
+    "three": "Ho già noleggiato energia ma la transazione è ancora fallita?",
+    "threeMore": "Oltre all'energia, le transazioni richiedono anche larghezza di banda. Se solo l'energia è insufficiente, la transazione continuerà comunque ma consumerà energia e alla fine indicherà che l'energia TRX è insufficiente. Se l'energia è sufficiente ma manca la larghezza di banda, la transazione non può continuare. Di solito, il portafoglio indicherà che TRX è insufficiente. Se viene avviato tramite API, la transazione verrà inviata alla catena ma alla fine fallirà e la transazione non può essere consultata nell'esploratore di blocchi."
+  }
+}

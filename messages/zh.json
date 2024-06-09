@@ -1,0 +1,39 @@
+{
+  "energy": {
+    "walletAddress": "钱包地址",
+    "energyQuantity":"租用数量",
+    "Rental duration":"租用时长",
+    "1H":"1 小时",
+    "3H":"3 小时",
+    "1D":"1 天",
+    "3D":"3 天",
+    "Energy rental":"能量租用",
+    "connect wallet":"连接钱包",
+    "pay":"支付",
+    "wallet":"钱包",
+    "copySuccess":"复制成功",
+    "copyFaild":"复制失败",
+    "walletAddressPlaceholder":"输入您要租用能量的钱包地址",
+    "useAddressRecEnergy":"使用该地址接收能量",
+    "energyQuantityPlaceholder":"输入要租用能量的数量",
+    "rentDurationPlaceholder":"选择您要租用的时长",
+    "dontOverPay":"不要多付不要少付",
+    "oneRelease":"能量会在一分钟内释放到你的钱包",
+    "acanQRcode":"扫描二维码或者手动转账到以下地址",
+    "copyToClipboard":"复制到剪切板",
+    "copyToClipboard":"复制到剪切板",
+    "amount":" 金额",
+    "needPay":" 需支付",
+    "transfer":"  转账"
+  },
+  "feature":{
+    "on11e":"节省高达80%的转账成本，立即体验波场能量租赁！",
+    "Leasing":"节省高达80%的转账成本，立即体验波场能量租赁！",
+    "one":"波场能量有什么用",
+    "oneMore":"目前波场链（TRON）上，使用能量最多的场景为USDT转账， 目前转账一次，对方有USDT余额时，需要32000（能量不足需燃烧13.2个TRX）能量， 如果对方没有USDT余额，则需要65000（如能量不足需燃烧27.3个TRX）能量， 如果资源不足，则会提示能量不足，交易无法完成",
+    "two":"为什么要用能量租赁",
+    "twoMore":"以转账TRC20 USDT为例，当对方有USDT余额时，需要燃烧13TRX，购买能量后仅需要1.60TRX， 比直接燃烧TRX节省约88%的手续费， 当对方无USDT余额时，需要燃烧27TRX， 购买能量后仅需要3.20TRX， 比直接燃烧TRX节省约88%的手续费",
+    "three":"我已经租赁了能量，转账还是失败？",
+    "threeMore":" 转账除了能量，还需要带宽， 如果仅仅是能量不足，交易依然会尝试进行，但是会消耗能量，最后提示TRX能量不足， 如果能量充足但是没有带宽，交易无法进行，一般钱包内都会提示TRX不足， 如果是通过API形式调用，则交易会发起上链，但是后续会失败，区块浏览器无法查询到此交易"
+  }
+}

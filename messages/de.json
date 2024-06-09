@@ -1,0 +1,38 @@
+{
+  "energy": {
+    "walletAddress": "Wallet-Adresse",
+    "energyQuantity": "Mietmenge",
+    "Rental duration": "Mietdauer",
+    "1H": "1 Stunde",
+    "3H": "3 Stunden",
+    "1D": "1 Tag",
+    "3D": "3 Tage",
+    "Energy rental": "Energievermietung",
+    "connect wallet": "Wallet verbinden",
+    "pay": "Bezahlen",
+    "wallet": "Wallet",
+    "copySuccess": "Erfolgreich kopiert",
+    "copyFaild": "Kopieren fehlgeschlagen",
+    "walletAddressPlaceholder": "Geben Sie die Wallet-Adresse ein, für die Sie Energie mieten möchten",
+    "useAddressRecEnergy": "Verwenden Sie diese Adresse, um Energie zu empfangen",
+    "energyQuantityPlaceholder": "Geben Sie die Menge an Energie ein, die Sie mieten möchten",
+    "rentDurationPlaceholder": "Wählen Sie die Dauer, für die Sie mieten möchten",
+    "dontOverPay": "Zahlen Sie weder zu viel noch zu wenig",
+    "oneRelease": "Die Energie wird innerhalb einer Minute in Ihrem Wallet freigegeben",
+    "acanQRcode": "Scannen Sie den QR-Code oder überweisen Sie manuell an die folgende Adresse",
+    "copyToClipboard": "In die Zwischenablage kopieren",
+    "amount": "Menge",
+    "needPay": " Muss bezahlt werden",
+    "transfer": " Übertragen"
+  },
+  "feature": {
+    "on11e": "Sparen Sie bis zu 80% der Transaktionskosten mit der Tron-Energievermietung! Jetzt ausprobieren!",
+    "Leasing": "Sparen Sie bis zu 80% der Transaktionskosten mit der Tron-Energievermietung! Jetzt ausprobieren!",
+    "one": "Wofür wird die Tron-Energie verwendet?",
+    "oneMore": "Derzeit wird die Energie im Tron-Netzwerk am häufigsten für USDT-Überweisungen verwendet. Für eine einzelne Überweisung sind 32.000 Energie erforderlich, wenn der Empfänger ein USDT-Guthaben hat (bei unzureichender Energie werden 13,2 TRX verbraucht). Wenn der Empfänger kein USDT-Guthaben hat, sind 65.000 Energie erforderlich (bei unzureichender Energie werden 27,3 TRX verbraucht). Wenn die Ressourcen nicht ausreichen, wird eine Meldung angezeigt, dass die Energie nicht ausreicht, und die Transaktion kann nicht abgeschlossen werden.",
+    "two": "Warum Energie mieten?",
+    "twoMore": "Nehmen Sie als Beispiel die Überweisung von USDT TRC20: Wenn der Empfänger ein USDT-Guthaben hat, müssen 13 TRX verbrannt werden. Nach dem Kauf von Energie sind nur noch 1,60 TRX erforderlich, was eine Ersparnis von etwa 88% gegenüber dem direkten Verbrennen von TRX bedeutet. Wenn der Empfänger kein USDT-Guthaben hat, müssen 27 TRX verbrannt werden. Nach dem Kauf von Energie sind nur noch 3,20 TRX erforderlich, was eine Ersparnis von etwa 88% gegenüber dem direkten Verbrennen von TRX bedeutet.",
+    "three": "Ich habe bereits Energie gemietet, aber die Transaktion ist immer noch fehlgeschlagen?",
+    "threeMore": "Neben der Energie benötigen Transaktionen auch Bandbreite. Wenn nur die Energie nicht ausreicht, wird die Transaktion dennoch fortgesetzt, verbraucht jedoch Energie und zeigt schließlich an, dass die TRX-Energie nicht ausreicht. Wenn die Energie ausreicht, die Bandbreite jedoch fehlt, kann die Transaktion nicht fortgesetzt werden. Normalerweise zeigt das Wallet an, dass TRX nicht ausreicht. Wenn es über die API gestartet wird, wird die Transaktion an die Kette gesendet, schlägt jedoch letztendlich fehl, und die Transaktion kann im Block-Explorer nicht abgefragt werden."
+  }
+}

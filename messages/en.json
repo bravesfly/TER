@@ -1,0 +1,39 @@
+{
+  "energy": {
+    "walletAddress": "Wallet Address",
+    "energyQuantity": "Rental Quantity",
+    "Rental duration": "Rental Duration",
+    "1H": "1 Hour",
+    "3H": "3 Hours",
+    "1D": "1 Day",
+    "3D": "3 Days",
+    "Energy rental": "Energy Rental",
+    "connect wallet": "Connect Wallet",
+    "pay": "Pay",
+    "wallet": "Wallet",
+    "copySuccess": "Copy Successful",
+    "copyFaild": "Copy Failed",
+    "walletAddressPlaceholder": "Enter the wallet address you want to rent energy",
+    "useAddressRecEnergy": "Use this address to receive energy",
+    "energyQuantityPlaceholder": "Enter the quantity of energy you want to rent",
+    "rentDurationPlaceholder": "Select the duration you want to rent",
+    "dontOverPay": "Do not overpay or underpay",
+    "oneRelease": "Energy will be released to your wallet within one minute",
+    "acanQRcode": "Scan the QR code or manually transfer to the following address",
+    "copyToClipboard": "Copy to Clipboard",
+    "copyToClipboard": "Copy to Clipboard",
+    "amount": "Amount",
+    "needPay": " Need to Pay",
+    "transfer": " Transfer"
+  },
+  "feature": {
+    "on11e": "Save up to 80% on transaction costs with Tron Energy Leasing! Experience it now!",
+    "Leasing": "Save up to 80% on transaction costs with Tron Energy Leasing! Experience it now!",
+    "one": "What is Tron Energy used for",
+    "oneMore": "Currently, the most common use of energy on the Tron network is for transferring USDT. For a single transfer, if the recipient has USDT balance, it requires 32,000 energy (13.2 TRX if energy is insufficient). If the recipient has no USDT balance, it requires 65,000 energy (27.3 TRX if energy is insufficient). If resources are insufficient, it will prompt that energy is insufficient and the transaction cannot be completed.",
+    "two": "Why use Energy Leasing",
+    "twoMore": "Taking TRC20 USDT transfer as an example, when the recipient has USDT balance, it requires burning 13 TRX. After purchasing energy, it only requires 1.60 TRX, saving about 88% of the fee compared to burning TRX directly. When the recipient has no USDT balance, it requires burning 27 TRX. After purchasing energy, it only requires 3.20 TRX, saving about 88% of the fee compared to burning TRX directly.",
+    "three": "I've leased energy but the transaction still failed?",
+    "threeMore": "In addition to energy, transactions also require bandwidth. If only energy is insufficient, the transaction will still attempt to proceed but will consume energy and eventually prompt that TRX energy is insufficient. If energy is sufficient but there is no bandwidth, the transaction cannot proceed. Usually, the wallet will prompt that TRX is insufficient. If it is initiated via API, the transaction will be sent to the chain but will eventually fail, and the transaction cannot be queried in the block explorer."
+  }
+}
